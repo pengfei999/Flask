@@ -27,9 +27,7 @@ def helloword():
     # 直接返回响应体数据 + 状态码 + 响应头信息
     # -:
     # return "字符串“ ，状态码，｛”key“：”value“｝
-    return 'helloword6666'
-
-
+    return 'helloword6666',700,{"name":"pengfei"}
 
 if __name__ == '__main__':
     print(app.url_map)
