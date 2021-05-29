@@ -61,4 +61,3 @@ def get_phone_number(number):
 '''
 if __name__ == '__main__':
     app.run(debug=True)
-    print(666)

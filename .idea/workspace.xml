@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9c6ba243-2722-4fb0-aadf-e35f6fb7b4c4" name="Default Changelist" comment="哈哈哈">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo01_helloword.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo01_helloword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo05_custom_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo05_custom_converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622293997869</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="哈哈哈">
+      <created>1622294160903</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622294160903</updated>
+    </task>
+    <task id="LOCAL-00007" summary="哈哈哈">
+      <created>1622294534160</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622294534160</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,6 +308,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1882" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622255146846" />
+    <state x="787" y="221" key="RollbackChangesDialog" timestamp="1622294296691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="787" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622294296691" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1622293856189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -81,12 +81,6 @@ venv/Lib/site-packages/setuptools/wheel.py
 venv/Lib/site-packages/setuptools/windows_support.py
 venv/Scripts/
 venv/pyvenv.cfg
-### Example user template template
-### Example user template
 
-# IntelliJ project files
-.idea
-*.iml
-out
-gen
-!/demo05_custom_converter.py
+
+!/demo01_helloword.py
