@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9c6ba243-2722-4fb0-aadf-e35f6fb7b4c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Flask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo01_helloword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02_url_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo03_apprun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo04_dynamic_pamams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo05_custom_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo06_custom_converter_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo07_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo08_return_response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +48,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.demo08_return_response">
     <configuration name="demo04_dynamic_pamams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -149,6 +158,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.demo04_dynamic_pamams" />
+      <item itemvalue="Python.demo05_custom_converter" />
+      <item itemvalue="Python.demo06_custom_converter_1" />
+      <item itemvalue="Python.demo07_methods" />
+      <item itemvalue="Python.demo08_return_response" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.demo08_return_response" />
@@ -172,6 +188,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1622125776296">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -193,6 +221,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622124656240" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1622285554588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622285554588" />
+    <state x="721" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1622284988639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="232" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622284988639" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1621760534909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
