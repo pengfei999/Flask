@@ -182,6 +182,14 @@
       <option name="presentableId" value="Default" />
       <updated>1621676888014</updated>
     </task>
+    <task id="LOCAL-00001" summary="哈哈哈">
+      <created>1622291364325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622291364325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +203,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="哈哈哈" />
+    <option name="LAST_COMMIT_MESSAGE" value="哈哈哈" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1622125776296">
@@ -217,10 +229,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622124656240" />
-    <state x="787" y="221" key="RollbackChangesDialog" timestamp="1622289139907">
+    <state x="787" y="221" key="RollbackChangesDialog" timestamp="1622291436432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="787" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622289139907" />
+    <state x="787" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622291436432" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1622285554588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
