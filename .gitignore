@@ -1,5 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/shelf/
-.idea/
-Flask\.idea
-venv/
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+*.xml
+out
+gen
