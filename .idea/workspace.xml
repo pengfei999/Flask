@@ -163,11 +163,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo01_helloword" />
-      <item itemvalue="Python.demo02_url_map" />
-      <item itemvalue="Python.demo06_custom_converter_1" />
-      <item itemvalue="Python.demo07_methods" />
       <item itemvalue="Python.demo08_return_response" />
+      <item itemvalue="Python.demo06_custom_converter_1" />
+      <item itemvalue="Python.demo02_url_map" />
+      <item itemvalue="Python.demo07_methods" />
+      <item itemvalue="Python.demo01_helloword" />
     </list>
     <recent_temporary>
       <list>
