@@ -12,6 +12,7 @@
 
 from flask import Flask
 
+
 app=Flask(__name__)
 @app.route("/")
 def helloword():
@@ -26,7 +27,7 @@ def helloword():
     # 直接返回响应体数据 + 状态码 + 响应头信息
     # -:
     # return "字符串“ ，状态码，｛”key“：”value“｝
-    return 'helloword6666', 666,{"Content-Type":"application/json999","name":"pengfei"}
+    return 'helloword6666'
 
 
 

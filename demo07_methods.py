@@ -9,7 +9,7 @@
 from flask import Flask
 
 app=Flask(__name__)
-@app.route("/",methods=["post","get"])
+@app.route("/",methods=["post"])
 def helloword():
     return "helloword"
 
