@@ -21,9 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9c6ba243-2722-4fb0-aadf-e35f6fb7b4c4" name="Default Changelist" comment="哈哈哈">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01_helloword.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo01_helloword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo05_custom_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo05_custom_converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.demo08_return_response">
     <configuration name="demo01_helloword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -168,11 +167,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo08_return_response" />
-      <item itemvalue="Python.demo06_custom_converter_1" />
-      <item itemvalue="Python.demo02_url_map" />
-      <item itemvalue="Python.demo07_methods" />
       <item itemvalue="Python.demo01_helloword" />
+      <item itemvalue="Python.demo02_url_map" />
+      <item itemvalue="Python.demo06_custom_converter_1" />
+      <item itemvalue="Python.demo07_methods" />
+      <item itemvalue="Python.demo08_return_response" />
     </list>
     <recent_temporary>
       <list>
@@ -312,17 +311,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="787" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622294296691" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1622293856189">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1622970281610">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1622970281610" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622293856189" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622284511830">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="368" y="147" key="Vcs.Push.Dialog.v2" timestamp="1623161865014">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="368" y="147" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1623161865014" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1622284511830" />
-    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622252406331">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="502" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623161817649">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="502" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1623161817649" />
     <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1622252406331" />
     <state x="721" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1622284624137">
       <screen x="0" y="0" width="1920" height="1040" />
