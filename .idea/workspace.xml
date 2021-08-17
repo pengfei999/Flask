@@ -19,7 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c6ba243-2722-4fb0-aadf-e35f6fb7b4c4" name="Default Changelist" comment="哈哈哈" />
+    <list default="true" id="f2a45e70-dcc5-4cee-9769-b8e22d52316f" name="Default Changelist" comment="代码修改">
+      <change afterPath="$PROJECT_DIR$/demo08_respons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09_jsonify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo10_redirect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo11_url_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_12_abort_errorhandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_13_requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_14_load_appparams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Flask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo01_helloword.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo01_helloword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo07_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo07_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo08_return_response.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +48,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1st15PkYzzkeJwleFCfQsxDhY0f" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

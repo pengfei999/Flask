@@ -9,9 +9,9 @@
 from flask import Flask
 
 app=Flask(__name__)
-@app.route("/",methods=["post","get"])
+@app.route("/",methods=["get"])
 def helloword():
-    return "helloword"
+    return "helloword,thinkyou!"
 
 
 
