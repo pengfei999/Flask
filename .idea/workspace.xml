@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2a45e70-dcc5-4cee-9769-b8e22d52316f" name="Default Changelist" comment="代码修改817">
+    <list default="true" id="f2a45e70-dcc5-4cee-9769-b8e22d52316f" name="Default Changelist" comment="代码修改818">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +180,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c6ba243-2722-4fb0-aadf-e35f6fb7b4c4" name="Default Changelist" comment="" />
+      <changelist id="f2a45e70-dcc5-4cee-9769-b8e22d52316f" name="Default Changelist" comment="代码修改817" />
       <created>1621676888014</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629185025891</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="代码修改818">
+      <created>1629275397942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629275397942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,28 +225,34 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="哈哈哈" />
     <MESSAGE value="代码修改817" />
-    <option name="LAST_COMMIT_MESSAGE" value="代码修改817" />
+    <MESSAGE value="代码修改818" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码修改818" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1622125776296">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="493" y="180" key="FileChooserDialogImpl" timestamp="1629278803916">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1629278803916" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1622125776296" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1622124656240">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="629" height="2" key="GridCell.Tab.0.bottom" timestamp="1629278808006">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="629" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1629278808006" />
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1622124656240" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1622124656240">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="629" height="2" key="GridCell.Tab.0.center" timestamp="1629278808006">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="629" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1629278808006" />
     <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1622124656240" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1622124656240">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="629" height="2" key="GridCell.Tab.0.left" timestamp="1629278808006">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="629" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1629278808006" />
     <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1622124656240" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1622124656240">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="629" height="2" key="GridCell.Tab.0.right" timestamp="1629278808006">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="629" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1629278808006" />
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1622124656240" />
     <state x="787" y="221" key="RollbackChangesDialog" timestamp="1622291436432">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -249,14 +262,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622285554588" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1629185256284">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1629280405210">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1629185256284" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1629280405210" />
     <state x="721" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1622284988639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="232" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622284988639" />
+    <state x="355" y="128" key="git4idea.merge.GitPullDialog" timestamp="1629279991144">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="355" y="128" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1629279991144" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1621760534909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
